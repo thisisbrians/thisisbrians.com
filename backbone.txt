@@ -1,0 +1,17 @@
+  - Possibly build framework that builds on Backbone.js?
+      - Brainstem.js?
+  - Read Backbone.js source.
+  - Things that suck about Backbone.js (aka, things that it doesn't solve for you):
+    - Templating
+      - where do you put the templates? how do you organize (/name) them?
+      - compiling?
+    - Rendering
+      - Re-rendering entire view when model(s) change(s) breaks nested views, decreases performance
+      - Splitting up rendering into sub-methods duplicates pieces of template and logic from overall render
+      - Typical rendering routine almost completely separates us from the DOM
+        - sometimes on a model change, we just need to reach and and change one node of DOM
+    - Nesting resources
+      - Nested models and collections suck to implement
+      - 'Bridge' was one pattern I came up with to decrease the suck, but not quite there yet
+
+  

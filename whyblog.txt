@@ -1,0 +1,51 @@
+/*********************************************************************\
+  Why write in the first place?
+\*********************************************************************/
+
+  - reasons not to
+    - already a shitton of blogs, why add to the noise?
+    - no one's going to read it anyway = waste of time.
+    - time better spent working on more important shit.
+    - not experts = nothing to add.
+
+  - publish to put us under the microscope (eventually).
+    - having to publish the post = social pressure to increase our own
+      competence to avoid embarassment
+    - our own expectations for ourselves increase when we know others
+      are watching
+    - get feedback on our ideas to validate if they are actually as 
+      good as we think they are, and garner alternative
+      perspectives/approaches to the problem or solution
+
+  - write to make sure we think through ideas and don't take them for
+    granted
+    - don't think of starting a new piece as a commitment to ship—it
+      isn't, nor should it be. think of it more as a new git branch to
+      fuss around with a new idea on. experiment to see if it's
+      actually any good. an open text editor is a much better incubator
+      for that idea than writing it in a list or on a post-it somewhere
+      - dustin curtis's blog platform idea lends itelf to this idea,
+        with the 'ideas' versus 'published' distinction.
+      - if some ramblings never see the light of day—then, great. that's more
+        practice for next time.
+    - don't waste creative juice. the moment when an idea is conceived
+      is a moment when your brain is obviously working well, and the
+      problems or implications related to that idea are fresh in your
+      mind. go stream of consciousness on it for awhile and see where
+      it takes you. the stream from a good idea (or even a bad one)
+      could lead to a great idea. you won't know if you just jot down
+      a sentence somewhere and move on.
+
+  - write to reinforce what we know
+    - the act of commiting something to ink (or html in this case) is
+      that we must convince even ourselves that it's indeed true, or 
+      at least what we believe. this lends itself to us having well
+      reasoned opinions on issues that matter to us (we wouldn't be
+      writing about them in the first place if they didn't matter.)
+      musings of a didactice nature are even better—teach someone else,
+      and you always teach yourself something as a byproduct.
+
+  - how to get started
+    - find a low friction way to develop your ideas in prose without
+      having to publish them. start even without an intent to publish,
+      because writing is good for you, anyway!
